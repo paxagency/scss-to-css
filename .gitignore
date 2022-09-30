@@ -1,0 +1,119 @@
+### ver 009 ###
+
+### Numerous always-ignore extensions ###
+*.diff
+*.err
+*.orig
+*.log
+*.rej
+*.swo
+*.swp
+*.vi
+*~
+*.tmp
+*.log
+*.pid
+*.seed
+.htaccess
+
+
+### OS or Editor folders ###
+.DS_Store
+.cache
+.project
+.settings
+nbproject
+thumbs.db
+
+
+### known large file types ###
+*.hqx
+*.bin
+*.exe
+*.dll
+*.deb
+*.dmg
+*.iso
+*.img
+*.msi
+*.msp
+*.msm
+*.mid
+*.midi
+*.kar
+*.mp3
+*.ogg
+*.m4a
+*.ra
+*.3gpp
+*.3gp
+*.mp4
+*.mpeg
+*.mpg
+*.mov
+*.webm
+*.flv
+*.m4v
+*.mng
+*.asx
+*.asf
+*.wmv
+*.avi
+*.zip
+*.tar
+*.tgz
+*.gz
+
+
+### WordPress ###
+log.txt
+wp-config.php
+wp-config-sample.php
+object-cache.php
+advanced-cache.php
+wp-cache-config.php
+w3tc*
+backups/
+backup-db/
+/content/upgrade/
+uploads/
+cache.json
+wp-rocket-config/
+wflogs/
+wordfence-waf.php
+/content/files/
+
+
+### Plugins ###
+wp-rocket/
+wordfence/
+
+
+### Node ###
+node_modules/
+
+
+### Sass ###
+.sass-cache
+
+
+### Directories ###
+temp/
+tmp/
+imagecache/
+videos/
+/video/
+/cache/
+
+
+### Sitemaps ###
+sitemap.xml
+sitemap.xml.gz
+
+
+### PHP Info ###
+/phpinfo.php
+
+
+### Project Specific: ###
+/back/sys/config.php
